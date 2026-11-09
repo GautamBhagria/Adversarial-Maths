@@ -1,0 +1,9 @@
+cat << 'EOF' > requirements.txt
+streamlit>=1.20.0
+numpy>=1.22.0
+torch>=1.13.0
+scikit-learn>=1.0.0
+scipy>=1.8.0
+matplotlib>=3.5.0
+requests>=2.28.0
+EOF
