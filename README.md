@@ -35,3 +35,7 @@ This advanced repository bridges the gap between deep discrete mathematics, mach
 * **GenAI Threat Targets:** Modern **OWASP LLM Top 10** risks including administrative Prompt Injection (LLM01) and Context Window Leaks (LLM07).
 * **Evasion Strategy:** Features an automated mutation engine applying Hex/URL encoding to simulate Web Application Firewall (WAF) bypasses.
 * **This app functions as a hacking simulator. It lets you test your web app defense filters by firing classic database exploits alongside modern AI prompt exploits (like trying to trick an AI into ignoring its rules). It includes an "evasion" toggle that disguises the malicious commands as web-safe scrambled text to prove that if your app doesn't sanitize data carefully, an attacker can slip past your outer firewall.
+<img width="1867" height="883" alt="Project 1" src="https://github.com/user-attachments/assets/53b0e03a-18e9-4cf2-810f-e6fa4fb74b41" />
+<img width="1877" height="943" alt="Project 2" src="https://github.com/user-attachments/assets/81a1577c-a57e-4f4d-8f31-b15e8773daba" />
+<img width="1892" height="802" alt="project 3" src="https://github.com/user-attachments/assets/845bb79f-36a0-461f-9fcb-502e67c6dbf6" />
+
