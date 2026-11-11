@@ -4,11 +4,6 @@ This showcases discrete mathematics, machine learning and offensive engineering 
 
 Project Details
 
-**Project 1: Defense Engine** | Bayesian Optimization, Gaussian Progress Regression \(\ell_2\)-norm Evasion Attacks |
-**Project 2: Graph Analyzer** | Spectral Theory, Graph Laplacian Side-Channel Leaks |
-**Project 3: OWASP Sandbox** | Attacker Emulation, Fuzzing WAF Evasion / Filter Validation |
-
-
 ## Project 1: Adversarial Defense Randomized Smoothing Engine
 * **Core Objective:** Optimize machine learning classification safety boundaries against malicious input manips.
 * Introduces controlled isotropic noise during training to enforce mathematically certifiable defense spaces.
